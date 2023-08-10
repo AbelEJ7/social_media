@@ -25,8 +25,8 @@ const Nav = () => {
           width={30}
           height={30} 
           className='object-contain'
-          src='/assets/images/logo.svg'  />
-          <p className='logo_text'> Promptopia</p>
+          src='/assets/icons/idea1.png'  />
+          <p className='logo_text'> I D E A</p>
       </Link>
       {/* Desktop Navigation */}
       <div className='sm:flex hidden'>

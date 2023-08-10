@@ -4,8 +4,9 @@ import Nav from '@components/Nav';
 import Provider from '@components/Provider';
 
 export const metadata = {
-    title:"Promptopia",
-    description: "Discovpr and Share"
+    icon :'https://www.freeiconspng.com/thumbs/idea-icon/idea-icon-4.png',
+    title:"IDEA",
+    description: "Discover and Idea"
 }
 
 const RootLayout = ({children}) => {

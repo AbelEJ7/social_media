@@ -5,7 +5,7 @@ const Home = () => {
         <h1 className='head_text text-center'>
             Discover & Share
             <br className="max-md:hidden" />
-            <span className="orange_gradient text-center"> Prompts</span>
+            <span className="orange_gradient text-center"> Ideas</span>
         </h1>
         <Feed />
      </section>
